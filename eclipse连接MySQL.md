@@ -14,7 +14,7 @@
 
    ![](D:\godblessing\forwork\操作记录\figure\连接SQL-1.png)
 
-3. 使用mysql command line client（命令行）创建新的数据库
+3. 使用mysql command line client（命令行）创建新的数据库（密码123456）
 
 CREATE DATABASE database_name; 创建一个新的数据库
 
